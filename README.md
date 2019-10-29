@@ -1,4 +1,8 @@
 # abraomAnalysis
+
+Denis Moura¹
+1 - Laboratório de Imunopatologia Keizo Asami - Universidade Federal de Pernambuco
+
 This project aims to extract information for clinical variants in the ABraOM database.
 
 In this project we analyzed which variant annotations of the five Primary Familial Brain Calcification genes are present in the  SABE609 Sul-American cohort. The genes are SLC20A2, XPR1, PDGFB, PDGFRB, KIAA1161 and JAM2.
